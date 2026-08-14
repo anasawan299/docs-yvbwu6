@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-k2h7jn.pulaucuansite.cfd/sitemap.xml
